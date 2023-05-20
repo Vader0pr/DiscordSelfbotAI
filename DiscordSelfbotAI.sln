@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordSelfbotAI", "ConsoleDiscordClient\DiscordSelfbotAI.csproj", "{6C311EED-E040-49EC-9BBC-B0B8DAE3B505}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordSelfbotAI.Tests", "DiscordSelfbotAI.Tests\DiscordSelfbotAI.Tests.csproj", "{0AE2FF4E-E185-4BA5-851A-35DCE4124C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6C311EED-E040-49EC-9BBC-B0B8DAE3B505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C311EED-E040-49EC-9BBC-B0B8DAE3B505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C311EED-E040-49EC-9BBC-B0B8DAE3B505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE2FF4E-E185-4BA5-851A-35DCE4124C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE2FF4E-E185-4BA5-851A-35DCE4124C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE2FF4E-E185-4BA5-851A-35DCE4124C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE2FF4E-E185-4BA5-851A-35DCE4124C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
